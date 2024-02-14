@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "emitDeclarationOnly": false,
+    "declaration": true,
+    "strict": true,
+    "noImlicitAny": true
+  },
+  "include": ["./src/**/*"],
+  "exclude": ["node_modules"]
+}
